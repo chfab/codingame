@@ -1,0 +1,7 @@
+/target/
+.classpath
+.project
+.settings
+
+# MacOS specific files
+.DS_Store
